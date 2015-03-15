@@ -1,0 +1,12 @@
+[15-Mar-2015 11:22:34] ERROR: [pool www] cannot get gid for group 'nobody'
+[15-Mar-2015 11:22:34] ERROR: FPM initialization failed
+[15-Mar-2015 11:23:14] NOTICE: fpm is running, pid 44263
+[15-Mar-2015 11:23:14] NOTICE: ready to handle connections
+[15-Mar-2015 11:27:18] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[15-Mar-2015 11:27:18] ERROR: FPM initialization failed
+[15-Mar-2015 11:28:26] NOTICE: fpm is running, pid 44329
+[15-Mar-2015 11:28:26] NOTICE: ready to handle connections
+[15-Mar-2015 11:29:19] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[15-Mar-2015 11:29:19] ERROR: FPM initialization failed
+[15-Mar-2015 11:29:54] NOTICE: fpm is running, pid 44393
+[15-Mar-2015 11:29:54] NOTICE: ready to handle connections
